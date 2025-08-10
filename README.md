@@ -75,9 +75,6 @@ Image-Recognition-System/
 - Generate downloadable prediction reports (PDF/HTML)  
 - Deploy on cloud platforms (Heroku, AWS, etc.) for wider accessibility  
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
