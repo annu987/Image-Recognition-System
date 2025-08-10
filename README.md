@@ -64,6 +64,9 @@ Image-Recognition-System/
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
 ```
+<img width="1440" height="900" alt="Screenshot 2025-08-10 at 4 46 32 PM" src="https://github.com/user-attachments/assets/1e65ec0a-099d-480f-8f0c-1d125f1b1eaa" />
+<img width="1440" height="900" alt="Screenshot 2025-08-10 at 4 46 43 PM" src="https://github.com/user-attachments/assets/a0401839-3c81-4b06-9793-71fb9e8de1b2" />
+
 
 ## Future Enhancements
 
